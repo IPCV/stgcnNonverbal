@@ -14,15 +14,12 @@ author: IPCV
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Demos: "demos"
-  Y-Net: "architecture"
   The Dataset:
-    - Acappella: "acappella"
-    - Montage: "dataset"
+    - HumanNoVeLa: "humannovela"
   About us:
-    - Francesc Serracant : "https://juanmontesinos.com"
-    - Martí Guasch : "https://vskadandale.github.io"
-    - Antonio Dávila : "https://vskadandale.github.io"
+    - Francesc Serracant : "https://github.com/fserracant"
+    - Martí Guasch : "https://sites.google.com/view/marti-guasch"
+    - Antonio Dávila : "https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1240106&LanCode=8"
     - Coloma Ballester: "https://www.upf.edu/web/coloma-ballester"
 
 # --- Logo --- #
@@ -44,9 +41,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-##email: "jfmontgar@gmail.com"
+##email: "colomamabn@gmail.com "
 #  facebook: deanattali
-##github: JuanFMontesinos/Acappella
+##github: fserracant/stgcnnonverbal
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
