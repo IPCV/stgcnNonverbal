@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Acappella
+title: stgcnNonverbal
 
 # Your name to show in the footer
 author: IPCV
@@ -20,9 +20,10 @@ navbar-links:
     - Acappella: "acappella"
     - Montage: "dataset"
   About us:
-    - Juan F. Montesinos: "https://juanmontesinos.com"
-    - Venkatesh S. Kadandale: "https://vskadandale.github.io"
-    - Gloria Haro: "https://www.upf.edu/web/gloria-haro"
+    - Francesc Serracant : "https://juanmontesinos.com"
+    - Martí Guasch : "https://vskadandale.github.io"
+    - Antonio Dávila : "https://vskadandale.github.io"
+    - Coloma Ballester: "https://www.upf.edu/web/coloma-ballester"
 
 # --- Logo --- #
 
